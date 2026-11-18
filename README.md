@@ -18,6 +18,10 @@ O catálogo e o Painel Agenda de Eventos apoiam etapas do mesmo fluxo de atendim
 
 Sou líder de atendimento e usei minha experiência na área para identificar quais informações ajudam o cliente a decidir. Concebi o projeto, defini como as informações seriam apresentadas e conduzi a prototipagem com apoio do Claude. Durante a prototipagem, testei a navegação, revisei o resultado e orientei os ajustes.
 
+## Vídeo demonstrativo
+
+[Assistir à demonstração do fluxo](./demonstracao-catalogo-de-bolos.mp4) (21 segundos). A animação usa telas ilustrativas e dados fictícios para mostrar a escolha do bolo, o contato pelo WhatsApp e o registro no painel.
+
 ## Status
 
 Este repositório documenta a proposta da versão de portfólio. O link da demonstração será adicionado aqui quando a versão estiver publicada.
