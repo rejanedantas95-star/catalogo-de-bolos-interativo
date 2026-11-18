@@ -21,3 +21,9 @@ Este repositório documenta a proposta da versão de portfólio. O link da demon
 ## Concepção e direção do projeto
 
 **Rejane Dantas**
+
+---
+
+**Da ideia à experiência. Do primeiro toque à última cena.**
+
+© 2026 Rejane Dantas · Projeto autoral de portfólio.
