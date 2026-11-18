@@ -18,12 +18,8 @@ Sou líder de atendimento e usei minha experiência na área para identificar qu
 
 Este repositório documenta a proposta da versão de portfólio. O link da demonstração será adicionado aqui quando a versão estiver publicada.
 
-## Concepção e direção do projeto
-
-**Rejane Dantas**
-
 ---
 
-**Da ideia à experiência. Do primeiro toque à última cena.**
+**Da ideia à experiência. Do primeiro toque à escolha do bolo.**
 
 © 2026 Rejane Dantas · Projeto autoral de portfólio.
